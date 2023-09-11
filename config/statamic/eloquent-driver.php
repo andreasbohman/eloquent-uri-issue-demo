@@ -23,7 +23,7 @@ return [
     ],
 
     'collections' => [
-        'driver' => 'hybrid',
+        'driver' => 'file',
         'model'  => \Statamic\Eloquent\Collections\CollectionModel::class,
         'update_entry_order_queue' => 'default',
     ],
