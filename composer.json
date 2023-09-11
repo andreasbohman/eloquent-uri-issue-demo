@@ -8,12 +8,6 @@
         "laravel"
     ],
     "type": "project",
-    "repositories": [
-        {
-            "type": "path",
-            "url": "/home/andreas/work/eloquent-driver"
-        }
-    ],
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
